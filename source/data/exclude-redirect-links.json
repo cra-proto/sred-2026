@@ -1,0 +1,498 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/what-are-sred-tax-incentives.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/what-are-sred-tax-incentives.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-eligibility.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-eligibility.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/group-projects.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/group-projects.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/request-case-number.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/request-case-number.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/complete-application.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/complete-application.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/submit-application.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/submit-application.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/after-apply.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/apply-pre-claim-approval/after-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/get-ready.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/get-ready.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/report-expenditures-t661.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/report-expenditures-t661.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/allowable-expenditures.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/allowable-expenditures.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/deductible-expenditures.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/deductible-expenditures.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/qualified-expenditures.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/qualified-expenditures.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/investment-tax-credit.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/investment-tax-credit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/after-claim.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/after-claim.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/contact-sred.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/contact-sred.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines/guidelines-eligibility-work-sred-tax-incentives.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines/guidelines-eligibility-work-sred-tax-incentives.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines/guidance-cews-sred.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-policies-guidelines/guidance-cews-sred.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-forms-publications.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-forms-publications.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/sred-webinars.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/sred-webinars.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/sred-outreach.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/sred-outreach.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/client-portal-workspace.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-support-services/client-portal-workspace.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/provincial-territorial-research-development-tax-credits.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/provincial-territorial-research-development-tax-credits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/annual-program-statistics.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/annual-program-statistics.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/multimedia-gallery.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/multimedia-gallery.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-updates.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-updates.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/program-archives.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/program-archives.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/british-columbia-nova-scotia-research-development-tax-credit.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/british-columbia-nova-scotia-research-development-tax-credit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/reporting-deadline-extentions.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/reporting-deadline-extentions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/budget-2019-sred.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program/budget-2019-sred.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-updates/definition-history.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-updates/definition-history.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-gbatteries.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-gbatteries.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-cstar.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-cstar.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-amacathera.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-amacathera.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-wilderharrier.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-wilderharrier.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-h2m.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-h2m.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-turkana.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-turkana.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-motionmetrics.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-motionmetrics.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-pattison.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-pattison.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-autovance.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-autovance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-riotinto.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-riotinto.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-northforge.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-northforge.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-geothermal.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-geothermal.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-rhocan.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-success-stories/sred-success-stories-rhocan.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax.html",
+    "destination": "/sred-2026/en/services/taxes/income-tax/personal-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/business-or-professional-income.html",
+    "destination": "/sred-2026/en/services/taxes/income-tax/business-or-professional-income.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax.html",
+    "destination": "/sred-2026/en/services/taxes/income-tax/trust-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents-tax.html",
+    "destination": "/sred-2026/en/revenue-agency/services/tax/international-non-residents-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html",
+    "destination": "/sred-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/special-elections.html",
+    "destination": "/sred-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/special-elections.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits",
+    "destination": "/sred-2026/en/services/taxes/child-and-family-benefits"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses",
+    "destination": "/sred-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll",
+    "destination": "/sred-2026/en/revenue-agency/services/tax/businesses/topics/payroll"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/business-registration",
+    "destination": "/sred-2026/en/services/taxes/business-registration"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/charities",
+    "destination": "/sred-2026/en/services/taxes/charities"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans",
+    "destination": "/sred-2026/en/services/taxes/savings-and-pension-plans"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies",
+    "destination": "/sred-2026/en/services/taxes/excise-taxes-duties-and-levies"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-consistent-ecouragements-fiscaux-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-consistent-ecouragements-fiscaux-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/admissibilite-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/admissibilite-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/regrouper-projets.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/regrouper-projets.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/demander-numero-cas.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/demander-numero-cas.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/remplir-demande.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/remplir-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/soumettre-demande.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/soumettre-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/apres-demande.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-approbation-prealable/apres-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/demande-rsde-preparer.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/demande-rsde-preparer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/declarer-depenses-t661.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/declarer-depenses-t661.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/depenses-deductibles.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/depenses-deductibles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/compte-depenses-deductibles.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/compte-depenses-deductibles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/depenses-admissibles.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/depenses-admissibles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/credit-impot-investissement.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/demande-rsde/credit-impot-investissement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/apres-demande.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/apres-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/contact-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/contact-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/politiques-lignes-directrices-rsde/lignes-directrices-admissibilite-travaux-rdse-encouragements-fiscaux.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/politiques-lignes-directrices-rsde/lignes-directrices-admissibilite-travaux-rdse-encouragements-fiscaux.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/politiques-lignes-directrices-rsde/orientation-ssuc-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/politiques-lignes-directrices-rsde/orientation-ssuc-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/formulaires-publications-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/formulaires-publications-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/webinaires-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/webinaires-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/visibilite-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/visibilite-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/portail-client-espace-travail.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/services-aide-rsde/portail-client-espace-travail.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/credits-impots-provinciaux-territoriaux-recherche-developpement.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/credits-impots-provinciaux-territoriaux-recherche-developpement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/statistiques-annuelles-programme.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/statistiques-annuelles-programme.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/galerie-multimedia.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/galerie-multimedia.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/mises-a-jour-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/mises-a-jour-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/archives-programme.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/archives-programme.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/colombie-britannique-nouvelle-ecosse-credit-impot-recherche-developpement.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/colombie-britannique-nouvelle-ecosse-credit-impot-recherche-developpement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/reports-date-limite-production.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/reports-date-limite-production.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/budget-2019-rsde.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/quoi-neuf-programme/budget-2019-rsde.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/mises-a-jour-rsde/historique-definition.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/mises-a-jour-rsde/historique-definition.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-gbatteries.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-gbatteries.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-cstar.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-cstar.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-amacathera.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-amacathera.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-wilderharrier.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-wilderharrier.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-h2m.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-h2m.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-turkana.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-turkana.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-motionmetrics.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-motionmetrics.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-pattison.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-pattison.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-autovance.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-autovance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-riotinto.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-riotinto.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-northforge.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-northforge.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-geothermal.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-geothermal.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-rhocan.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/rsde-modeles-reussite/rsde-exemples-reussite-rhocan.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers.html",
+    "destination": "/sred-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/revenus-dentreprise-ou-de-profession-liberale.html",
+    "destination": "/sred-2026/fr/services/impots/impot-sur-le-revenu/revenus-dentreprise-ou-de-profession-liberale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies.html",
+    "destination": "/sred-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/international-non-residents-impot.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/impot/international-non-residents-impot.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/election-speciales.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/election-speciales.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
+    "destination": "/sred-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html",
+    "destination": "/sred-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/inscription-entreprise.html",
+    "destination": "/sred-2026/fr/services/impots/inscription-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/bienfaisance.html",
+    "destination": "/sred-2026/fr/services/impots/bienfaisance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
+    "destination": "/sred-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/taxes-daccise-droits-et-prelevements.html",
+    "destination": "/sred-2026/fr/services/impots/taxes-daccise-droits-et-prelevements.html"
+  }
+]
