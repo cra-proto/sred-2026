@@ -22,13 +22,13 @@ Add information on how to manage your repo here.
 ## Design phase roadmap:
 
 - [x] Initial content inventory and repo setup
-- [ ] Prototype: co-design navigation and content
+- [x] Prototype: co-design navigation and content
 - [ ] SME review and accuracy check
 - [ ] Validation usability testing (including accessibility review)
 - [ ] Refine prototype (if required)
 - [ ] Spot check usability (if required)
 
-**Updated:**  2026-08-11
+**Updated:**  2026-08-12
 
 ## Information Architecture
 ```mermaid
