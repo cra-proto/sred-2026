@@ -11,6 +11,8 @@ It contains the template files and in-scope pages needed to get started.
 
 GitHub Pages: [https://cra-test-arc.canada.ca/sred-2026](https://cra-test-arc.canada.ca/sred-2026)
 
+SRED Homepage: [https://cra-test-arc.canada.ca/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html](https://cra-test-arc.canada.ca/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
+
 ---
 ## Update procedures
 
