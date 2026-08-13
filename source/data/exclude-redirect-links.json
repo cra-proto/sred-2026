@@ -4,6 +4,10 @@
     "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/submit-sred-claim.html",
+    "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/sred-claim/submit-sred-claim.html"
+  },  
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/after-pre-claim-approval.html",
     "destination": "/sred-2026/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/after-pre-claim-approval.html"
   },
